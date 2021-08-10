@@ -1,5 +1,5 @@
 ## Description
-Instructions for building an indoor air quality measuring device.  
+Instructions for building an indoor air quality sensing device.  
 The included NDIR CO2 sensor provides real air concentration readings where most consumer air quality sensors provide estimates.  
 This device measures CO2, Particulate Matter, Temperature, and Humidity.  
 
