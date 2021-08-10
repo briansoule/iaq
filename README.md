@@ -5,6 +5,9 @@ This device measures CO2, Particulate Matter, Temperature, and Humidity.
 
 Where consumer VOC detection devices are error prone, accurate CO2 levels can serve as a useful proxy for clean air.
 
+![Front](img/front.png)
+![Back](img/back.png)
+
 ## Setup
 Make sure Python 3 is installed and run:  
 `sudo pip3 install adafruit-circuitpython-scd30`  
