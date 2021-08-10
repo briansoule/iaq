@@ -52,14 +52,14 @@ exit 0
 ```
 
 ## Shopping List
-https://www.adafruit.com/product/4867 - CO2 Sensor
-https://www.adafruit.com/product/4632 - PM Sensor
-https://www.adafruit.com/product/4210 X2 - QT Cables
-https://www.adafruit.com/product/3934 - eInk display
-https://www.adafruit.com/product/4862 - Display mount and QT connector
-
-If you don't already have a Raspberry Pi:
-https://www.adafruit.com/product/4795 - Device
-https://www.adafruit.com/product/4298 - Power Supply
-https://www.adafruit.com/product/1322 - HDMI Cable
-https://www.adafruit.com/product/4266 - NOOBS SD Card
+https://www.adafruit.com/product/4867 - CO2 Sensor  
+https://www.adafruit.com/product/4632 - PM Sensor  
+https://www.adafruit.com/product/4210 X2 - QT Cables  
+https://www.adafruit.com/product/3934 - eInk display  
+https://www.adafruit.com/product/4862 - Display mount and QT connector  
+  
+If you don't already have a Raspberry Pi:  
+https://www.adafruit.com/product/4795 - Device  
+https://www.adafruit.com/product/4298 - Power Supply  
+https://www.adafruit.com/product/1322 - HDMI Cable  
+https://www.adafruit.com/product/4266 - NOOBS SD Card  
