@@ -18,7 +18,9 @@ This will install the particulate matter sensor dependencies
 
 `pip3 install inky`
 
-make sure you have I2C and SPI enabled in sudo raspi-config
+`pip install font-fredoka-one`
+
+make sure you have I2C and SPI enabled in `sudo raspi-config`
 
 ## Run
 `cd` into the project directory and run  
