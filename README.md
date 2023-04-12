@@ -16,6 +16,10 @@ This will install the CO2 sensor dependencies
 `pip3 install adafruit-circuitpython-pm25`  
 This will install the particulate matter sensor dependencies  
 
+`pip3 install inky`
+
+make sure you have I2C and SPI enabled in sudo raspi-config
+
 ## Run
 `cd` into the project directory and run  
 `python3 display.py`  
